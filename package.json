@@ -1,0 +1,19 @@
+{
+  "name": "grid",
+  "version": "1.3.9",
+  "description": "To run DataLudi Grid, files such as \"dataludi.lic.min.js\", \"dataludi.min.js\" must be on the path. In the case of free trial version, those are \"dataludi.lic.eval.min.js\" and \"dataludi.eval.min.js\". And that need image files to use internally.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heartyoh/grid.git"
+  },
+  "author": "",
+  "license": "Dataludi Software License Agreement",
+  "bugs": {
+    "url": "https://github.com/heartyoh/grid/issues"
+  },
+  "homepage": "https://github.com/heartyoh/grid#readme"
+}
